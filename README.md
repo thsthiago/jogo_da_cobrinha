@@ -1,1 +1,4 @@
-# jogo_da_cobrinha
+# Snake Game
+---
+
+*Projeto Digital Innovation One*
