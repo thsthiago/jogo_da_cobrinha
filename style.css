@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  width: 95vw;
+  height: 95vh;
+  display:  flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: rgb(44, 139, 44);
+  background-color: #f1f8e9;
+}
+
+h1{
+  margin-bottom: 25px;
+}
+
+canvas{
+  border: 5px solid #b2ff59;
+}
