@@ -1,4 +1,5 @@
 let canvas = document.getElementById("snake");
+let button = document.querySelector('.comeca');
 let context = canvas.getContext("2d");
 let box = 32;
 let snake = [];
@@ -81,5 +82,8 @@ function iniciarJogo() {
 
 }
 
-let jogo = setInterval(iniciarJogo, 100);
+button.onclick = function () {
+  document.location.reload(true);
+}
 
+let jogo = setInterval(iniciarJogo, 100);
