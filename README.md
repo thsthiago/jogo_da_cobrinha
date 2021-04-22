@@ -11,7 +11,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto desenvolvido no Bootcamp _JavaScript Game Developer_ da [**Digital Innovation One**](https://digitalinnovation.one/).
+Projeto desenvolvido no Bootcamp _HTML Web Developer_ da [**Digital Innovation One**](https://digitalinnovation.one/).
 
 ---
 
